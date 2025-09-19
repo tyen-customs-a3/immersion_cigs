@@ -8,13 +8,6 @@
             <Japanese>ジョイントを吸う</Japanese>
             <Chinese>抽大麻菸</Chinese>
         </Key>
-        <Key ID="STR_immersion_grass_start_someones_joint">
-            <English>Light Up their joint</English>
-            <French>Allumer leur joint</French>
-            <German>Ihren Joint anzünden</German>
-            <Japanese>彼のジョイントに火をつける</Japanese>
-            <Chinese>幫他點菸</Chinese>
-        </Key>
         <Key ID="STR_immersion_grass_stop_joint">
             <English>Put Out the joint</English>
             <French>Éteindre le joint</French>
@@ -62,13 +55,5 @@
             <Chinese>Rebel / Facel (immersion_grass)</Chinese>
         </Key>
     </Package>
-    <Package name="Notification">
-        <Key ID="STR_immersion_grass_no_matches_or_lighter">
-            <English>You don't have matches or a lighter.</English>
-            <French>Vous n'avez pas d'allumettes ou de briquet.</French>
-            <German>Du hast kein Feuerzeug oder Streichhölzer.</German>
-            <Japanese>ライターかマッチを持っていません。</Japanese>
-            <Chinese>你沒有火柴或打火機。</Chinese>
-        </Key>
-    </Package>
+    <Package name="Notification"></Package>
 </Project>
