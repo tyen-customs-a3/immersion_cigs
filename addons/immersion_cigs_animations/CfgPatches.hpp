@@ -5,7 +5,7 @@ class CfgPatches
 		units[] = {};
 		weapons[] = {};
 		magazines[] = {};
-		requiredVersion = 0.1;
+		requiredVersion = 1.0;
 		requiredAddons[] = {
 				"a3_3den",
 				"a3_3den_language",
