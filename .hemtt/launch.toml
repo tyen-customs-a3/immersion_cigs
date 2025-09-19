@@ -1,0 +1,15 @@
+[default]
+workshop = [
+    "463939057", # ACE3
+    "450814997", # CBA_A3
+    "2183975396" # S&S
+]
+optionals = [
+]
+
+[arsenal]
+extends = "default"
+parameters = [
+    # Launch directly to ACE Arsenal
+    "-init=playMission['','\\z\\ace\\addons\\arsenal\\missions\\Arsenal.VR']"
+]

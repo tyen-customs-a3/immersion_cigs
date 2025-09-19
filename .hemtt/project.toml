@@ -1,9 +1,8 @@
 name = "Immersion Cigs"
-prefix = "klpq"
-
-[properties]
 author = "Rebel / Facel / Panimala"
 url = "https://github.com/rebelvg/immersion_cigs"
+prefix = "klpq"
+mainprefix = "murshun_cigs"
 
 [files]
 include = [
@@ -19,3 +18,4 @@ major = 1
 minor = 5
 patch = 2
 build = 0
+git_hash = 0
