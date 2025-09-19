@@ -100,7 +100,7 @@ class CfgMagazines
 		displayName = "$STR_murshun_cigs_matches";
 		descriptionShort = "$STR_murshun_cigs_matches_descr";
 		model = "\murshun_cigs\matches.p3d";
-		picture = "\murshun_cigs\UI\gear_matches_x_ca";
+		picture = "\murshun_cigs\UI\gear_matches_x_ca.paa";
 		ammo = "";
 		count = 10;
 		initSpeed = 0;
@@ -115,7 +115,7 @@ class CfgMagazines
 		displayName = "$STR_murshun_cigs_lighter";
 		descriptionShort = "$STR_murshun_cigs_lighter_descr";
 		model = "\murshun_cigs\lighter.p3d";
-		picture = "\murshun_cigs\UI\gear_lighter_x_ca";
+		picture = "\murshun_cigs\UI\gear_lighter_x_ca.paa";
 		ammo = "";
 		count = 100;
 		initSpeed = 0;
@@ -130,7 +130,7 @@ class CfgMagazines
 		displayName = "$STR_murshun_cigs_cigpack";
 		descriptionShort = "$STR_murshun_cigs_cigpack_descr";
 		model = "\murshun_cigs\cigpack.p3d";
-		picture = "\murshun_cigs\UI\gear_cigpack_x_ca";
+		picture = "\murshun_cigs\UI\gear_cigpack_x_ca.paa";
 		ammo = "";
 		count = 20;
 		initSpeed = 0;
@@ -150,7 +150,7 @@ class CfgGlasses
 		mass = 0.02;
 		displayName = "$STR_murshun_cigs_cigarette0";
 		model = "\murshun_cigs\cig0.p3d";
-		picture = "\murshun_cigs\UI\gear_cig0_x_ca";
+		picture = "\murshun_cigs\UI\gear_cig0_x_ca.paa";
 		identityTypes[] = {};
 		immersion_cigs_type = "cigarette";
 		immersion_cigs_maxTime = 330;
@@ -164,7 +164,7 @@ class CfgGlasses
 		author = "$STR_murshun_cigs_author";
 		displayName = "Cigarette (Stage 1)";
 		model = "\murshun_cigs\cig1.p3d";
-		picture = "\murshun_cigs\UI\gear_cig1_x_ca";
+		picture = "\murshun_cigs\UI\gear_cig1_x_ca.paa";
 		immersion_cigs_initStateTime = 6;
 		immersion_cigs_nextState = "murshun_cigs_cig2";
 		immersion_cigs_isCig = 1;
@@ -175,7 +175,7 @@ class CfgGlasses
 		author = "$STR_murshun_cigs_author";
 		displayName = "Cigarette (Stage 2)";
 		model = "\murshun_cigs\cig2.p3d";
-		picture = "\murshun_cigs\UI\gear_cig2_x_ca";
+		picture = "\murshun_cigs\UI\gear_cig2_x_ca.paa";
 		immersion_cigs_initStateTime = 66;
 		immersion_cigs_nextState = "murshun_cigs_cig3";
 		immersion_cigs_isCig = 1;
@@ -186,7 +186,7 @@ class CfgGlasses
 		author = "$STR_murshun_cigs_author";
 		displayName = "Cigarette (Stage 3)";
 		model = "\murshun_cigs\cig3.p3d";
-		picture = "\murshun_cigs\UI\gear_cig3_x_ca";
+		picture = "\murshun_cigs\UI\gear_cig3_x_ca.paa";
 		immersion_cigs_initStateTime = 126;
 		immersion_cigs_nextState = "murshun_cigs_cig4";
 		immersion_cigs_isCig = 1;
@@ -197,7 +197,7 @@ class CfgGlasses
 		author = "$STR_murshun_cigs_author";
 		displayName = "Cigarette (Stage 4)";
 		model = "\murshun_cigs\cig4.p3d";
-		picture = "\murshun_cigs\UI\gear_cig4_x_ca";
+		picture = "\murshun_cigs\UI\gear_cig4_x_ca.paa";
 		immersion_cigs_initStateTime = 306;
 		immersion_cigs_nextState = "";
 		immersion_cigs_isCig = 1;
@@ -209,7 +209,7 @@ class CfgGlasses
 		mass = 0.1;
 		displayName = "Cigar";
 		model = "\murshun_cigs\cigars\cigar0.p3d";
-		picture = "\murshun_cigs\UI\gear_cigar0_x_ca";
+		picture = "\murshun_cigs\UI\gear_cigar0_x_ca.paa";
 		identityTypes[] = {};
 		immersion_cigs_type = "cigar";
 		immersion_cigs_maxTime = 660;
@@ -223,7 +223,7 @@ class CfgGlasses
 		author = "$STR_murshun_cigs_author";
 		displayName = "Cigar (Stage 1)";
 		model = "\murshun_cigs\cigars\cigar1.p3d";
-		picture = "\murshun_cigs\UI\gear_cigar1_x_ca";
+		picture = "\murshun_cigs\UI\gear_cigar1_x_ca.paa";
 		immersion_cigs_initStateTime = 12;
 		immersion_cigs_nextState = "immersion_cigs_cigar2";
 		immersion_cigs_isCig = 1;
@@ -234,7 +234,7 @@ class CfgGlasses
 		author = "$STR_murshun_cigs_author";
 		displayName = "Cigar (Stage 2)";
 		model = "\murshun_cigs\cigars\cigar2.p3d";
-		picture = "\murshun_cigs\UI\gear_cigar2_x_ca";
+		picture = "\murshun_cigs\UI\gear_cigar2_x_ca.paa";
 		immersion_cigs_initStateTime = 132;
 		immersion_cigs_nextState = "immersion_cigs_cigar3";
 		immersion_cigs_isCig = 1;
@@ -245,7 +245,7 @@ class CfgGlasses
 		author = "$STR_murshun_cigs_author";
 		displayName = "Cigar (Stage 3)";
 		model = "\murshun_cigs\cigars\cigar3.p3d";
-		picture = "\murshun_cigs\UI\gear_cigar3_x_ca";
+		picture = "\murshun_cigs\UI\gear_cigar3_x_ca.paa";
 		immersion_cigs_initStateTime = 252;
 		immersion_cigs_nextState = "immersion_cigs_cigar4";
 		immersion_cigs_isCig = 1;
@@ -256,7 +256,7 @@ class CfgGlasses
 		author = "$STR_murshun_cigs_author";
 		displayName = "Cigar (Stage 4)";
 		model = "\murshun_cigs\cigars\cigar4.p3d";
-		picture = "\murshun_cigs\UI\gear_cigar4_x_ca";
+		picture = "\murshun_cigs\UI\gear_cigar4_x_ca.paa";
 		immersion_cigs_initStateTime = 612;
 		immersion_cigs_nextState = "";
 		immersion_cigs_isCig = 1;
@@ -315,7 +315,7 @@ class CfgWeapons
 		displayName = "$STR_murshun_cigs_cigarette0_nv";
 		descriptionShort = "";
 		model = "\murshun_cigs\cig0.p3d";
-		picture = "\murshun_cigs\UI\gear_cig0_x_ca";
+		picture = "\murshun_cigs\UI\gear_cig0_x_ca.paa";
 		visionMode[] = {"Normal"};
 		thermalMode[] = {0};
 		modelOptics[] = {};
@@ -340,7 +340,7 @@ class CfgWeapons
 		author = "$STR_murshun_cigs_author";
 		displayName = "Cigarette (Stage 1)";
 		model = "\murshun_cigs\cig1.p3d";
-		picture = "\murshun_cigs\UI\gear_cig1_x_ca";
+		picture = "\murshun_cigs\UI\gear_cig1_x_ca.paa";
 		immersion_cigs_initStateTime = 6;
 		immersion_cigs_nextState = "murshun_cigs_cig2_nv";
 		immersion_cigs_isCig = 1;
@@ -358,7 +358,7 @@ class CfgWeapons
 		author = "$STR_murshun_cigs_author";
 		displayName = "Cigarette (Stage 2)";
 		model = "\murshun_cigs\cig2.p3d";
-		picture = "\murshun_cigs\UI\gear_cig2_x_ca";
+		picture = "\murshun_cigs\UI\gear_cig2_x_ca.paa";
 		immersion_cigs_initStateTime = 66;
 		immersion_cigs_nextState = "murshun_cigs_cig3_nv";
 		immersion_cigs_isCig = 1;
@@ -376,7 +376,7 @@ class CfgWeapons
 		author = "$STR_murshun_cigs_author";
 		displayName = "Cigarette (Stage 3)";
 		model = "\murshun_cigs\cig3.p3d";
-		picture = "\murshun_cigs\UI\gear_cig3_x_ca";
+		picture = "\murshun_cigs\UI\gear_cig3_x_ca.paa";
 		immersion_cigs_initStateTime = 126;
 		immersion_cigs_nextState = "murshun_cigs_cig4_nv";
 		immersion_cigs_isCig = 1;
@@ -394,7 +394,7 @@ class CfgWeapons
 		author = "$STR_murshun_cigs_author";
 		displayName = "Cigarette (Stage 4)";
 		model = "\murshun_cigs\cig4.p3d";
-		picture = "\murshun_cigs\UI\gear_cig4_x_ca";
+		picture = "\murshun_cigs\UI\gear_cig4_x_ca.paa";
 		immersion_cigs_initStateTime = 306;
 		immersion_cigs_nextState = "";
 		immersion_cigs_isCig = 1;
@@ -413,7 +413,7 @@ class CfgWeapons
 		mass = 0.1;
 		displayName = "Cigar (NVG Slot)";
 		model = "\murshun_cigs\cigars\cigar0.p3d";
-		picture = "\murshun_cigs\UI\gear_cigar0_x_ca";
+		picture = "\murshun_cigs\UI\gear_cigar0_x_ca.paa";
 		visionMode[] = {"Normal"};
 		thermalMode[] = {0};
 		modelOptics[] = {};
@@ -437,7 +437,7 @@ class CfgWeapons
 		author = "$STR_murshun_cigs_author";
 		displayName = "Cigar (Stage 1)";
 		model = "\murshun_cigs\cigars\cigar1.p3d";
-		picture = "\murshun_cigs\UI\gear_cigar1_x_ca";
+		picture = "\murshun_cigs\UI\gear_cigar1_x_ca.paa";
 		immersion_cigs_initStateTime = 12;
 		immersion_cigs_nextState = "immersion_cigs_cigar2_nv";
 		immersion_cigs_isCig = 1;
@@ -455,7 +455,7 @@ class CfgWeapons
 		author = "$STR_murshun_cigs_author";
 		displayName = "Cigar (Stage 2)";
 		model = "\murshun_cigs\cigars\cigar2.p3d";
-		picture = "\murshun_cigs\UI\gear_cigar2_x_ca";
+		picture = "\murshun_cigs\UI\gear_cigar2_x_ca.paa";
 		immersion_cigs_initStateTime = 132;
 		immersion_cigs_nextState = "immersion_cigs_cigar3_nv";
 		immersion_cigs_isCig = 1;
@@ -473,7 +473,7 @@ class CfgWeapons
 		author = "$STR_murshun_cigs_author";
 		displayName = "Cigar (Stage 3)";
 		model = "\murshun_cigs\cigars\cigar3.p3d";
-		picture = "\murshun_cigs\UI\gear_cigar3_x_ca";
+		picture = "\murshun_cigs\UI\gear_cigar3_x_ca.paa";
 		immersion_cigs_initStateTime = 252;
 		immersion_cigs_nextState = "immersion_cigs_cigar4_nv";
 		immersion_cigs_isCig = 1;
@@ -491,7 +491,7 @@ class CfgWeapons
 		author = "$STR_murshun_cigs_author";
 		displayName = "Cigar (Stage 4)";
 		model = "\murshun_cigs\cigars\cigar4.p3d";
-		picture = "\murshun_cigs\UI\gear_cigar4_x_ca";
+		picture = "\murshun_cigs\UI\gear_cigar4_x_ca.paa";
 		immersion_cigs_initStateTime = 612;
 		immersion_cigs_nextState = "";
 		immersion_cigs_isCig = 1;

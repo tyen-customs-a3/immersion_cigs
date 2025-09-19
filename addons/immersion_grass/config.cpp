@@ -73,7 +73,7 @@ class CfgMagazines
 		displayName = "$STR_immersion_grass_jointpack";
 		descriptionShort = "$STR_immersion_grass_jointpack_descr";
 		model = "\murshun_cigs\cigpack.p3d";
-		picture = "\murshun_cigs\UI\gear_cigpack_x_ca";
+	picture = "\murshun_cigs\UI\gear_cigpack_x_ca.paa";
 		ammo = "";
 		count = 6;
 		initSpeed = 0;
@@ -94,7 +94,7 @@ class CfgGlasses
 		mass = 0.03;
 		displayName = "$STR_immersion_grass_joint0";
 		model = "\murshun_cigs\cig0.p3d"; // placeholder model
-		picture = "\murshun_cigs\UI\gear_cig0_x_ca";
+	picture = "\murshun_cigs\UI\gear_cig0_x_ca.paa";
 		identityTypes[] = {};
 		immersion_cigs_type = "joint";
 		immersion_cigs_maxTime = 420;
@@ -108,7 +108,7 @@ class CfgGlasses
 		scope = 1;
 		displayName = "Joint (Stage 1)";
 		model = "\murshun_cigs\cig1.p3d";
-		picture = "\murshun_cigs\UI\gear_cig1_x_ca";
+	picture = "\murshun_cigs\UI\gear_cig1_x_ca.paa";
 		immersion_cigs_initStateTime = 8;
 		immersion_cigs_nextState = "immersion_grass_joint2";
 		immersion_cigs_isCig = 1;
@@ -119,7 +119,7 @@ class CfgGlasses
 		scope = 1;
 		displayName = "Joint (Stage 2)";
 		model = "\murshun_cigs\cig2.p3d";
-		picture = "\murshun_cigs\UI\gear_cig2_x_ca";
+	picture = "\murshun_cigs\UI\gear_cig2_x_ca.paa";
 		immersion_cigs_initStateTime = 90;
 		immersion_cigs_nextState = "immersion_grass_joint3";
 		immersion_cigs_isCig = 1;
@@ -130,7 +130,7 @@ class CfgGlasses
 		scope = 1;
 		displayName = "Joint (Stage 3)";
 		model = "\murshun_cigs\cig3.p3d";
-		picture = "\murshun_cigs\UI\gear_cig3_x_ca";
+	picture = "\murshun_cigs\UI\gear_cig3_x_ca.paa";
 		immersion_cigs_initStateTime = 180;
 		immersion_cigs_nextState = "immersion_grass_joint4";
 		immersion_cigs_isCig = 1;
@@ -141,7 +141,7 @@ class CfgGlasses
 		scope = 1;
 		displayName = "Joint (Stage 4)";
 		model = "\murshun_cigs\cig4.p3d";
-		picture = "\murshun_cigs\UI\gear_cig4_x_ca";
+	picture = "\murshun_cigs\UI\gear_cig4_x_ca.paa";
 		immersion_cigs_initStateTime = 360;
 		immersion_cigs_nextState = "";
 		immersion_cigs_isCig = 1;
