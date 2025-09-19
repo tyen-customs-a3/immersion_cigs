@@ -3,7 +3,6 @@
 class CfgMovesBasic
 {
 	class Default;
-	class StandBase;
 	class HealBase : Default
 	{
 		disableWeapons = 1;
@@ -38,7 +37,6 @@ class CfgMovesBasic
 	};
 	class Actions
 	{
-		class Default;
 		class NoActions;
 		class Controlled_ActionStances_p : NoActions
 		{
@@ -79,7 +77,6 @@ class CfgGesturesMale
 	class ManActions
 	{
 	};
-	class Actions;
 	class Default;
 	class BlendAnims
 	{
