@@ -1,11 +1,12 @@
 class CfgPatches
 {
-	class immersion_grass
-	{
-		units[] = {"immersion_grass_jointpackItem"};
-		weapons[] = {};
-		magazines[] = {"immersion_grass_jointpack"};
-		requiredVersion = 2.0;
-		requiredAddons[] = {"a3_modules_f", "a3_data_f"};
-	};
+    class immersion_grass
+    {
+        units[] = {"immersion_grass_bagItem"};
+        weapons[] = {"immersion_grass_joint0_nv"};
+        magazines[] = {"immersion_grass_bag"};
+        requiredVersion = 1.0;
+        requiredAddons[] = {"murshun_cigs"};
+    };
 };
+

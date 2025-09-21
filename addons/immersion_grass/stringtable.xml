@@ -15,10 +15,10 @@
             <Japanese>ジョイントを消す</Japanese>
             <Chinese>滅掉菸</Chinese>
         </Key>
-        <Key ID="STR_immersion_grass_take_joint_from_pack">
-            <English>Take joint from pack</English>
-            <French>Prendre un joint du paquet</French>
-            <German>Nimm einen Joint aus der Packung</German>
+        <Key ID="STR_immersion_grass_take_joint_from_bag">
+            <English>Take joint from bag</English>
+            <French>Prendre un joint du sac</French>
+            <German>Nimm einen Joint aus dem Beutel</German>
             <Japanese>パックからジョイントを取る</Japanese>
             <Chinese>從包裡抽一根菸</Chinese>
         </Key>
@@ -31,15 +31,15 @@
             <Japanese>ジョイント</Japanese>
             <Chinese>大麻菸</Chinese>
         </Key>
-        <Key ID="STR_immersion_grass_jointpack">
-            <English>Joint Pack</English>
-            <French>Paquet de joints</French>
-            <German>Joint-Pack</German>
+        <Key ID="STR_immersion_grass_bag">
+            <English>Bag of Grass</English>
+            <French>Sac d'herbe</French>
+            <German>Beutel Gras</German>
             <Japanese>ジョイントパック</Japanese>
             <Chinese>一包大麻菸</Chinese>
         </Key>
-        <Key ID="STR_immersion_grass_jointpack_descr">
-            <English>Contains several herbal joints. Use responsibly.</English>
+        <Key ID="STR_immersion_grass_bag_descr">
+            <English>A resealable bag packed with rolled joints.</English>
             <French>Contient plusieurs joints. À consommer avec responsabilité.</French>
             <German>Enthält mehrere Joints. Verantwortungsbewusst verwenden.</German>
             <Japanese>いくつかのジョイントが含まれています。責任を持って使用してください。</Japanese>
@@ -57,3 +57,6 @@
     </Package>
     <Package name="Notification"></Package>
 </Project>
+
+
+
