@@ -171,13 +171,3 @@ class CfgFunctions
         };
     };
 };
-
-
-
-
-
-
-
-
-
-
