@@ -1,0 +1,13 @@
+# Enforce consistent line endings for text files across platforms.
+* text=auto eol=lf
+
+# Arma and media assets are binary.
+*.paa binary
+*.p3d binary
+*.ogg binary
+*.rtm binary
+*.blend binary
+*.png binary
+
+# Repo-specific text files without extensions.
+**/$PBOPREFIX$ text eol=lf
