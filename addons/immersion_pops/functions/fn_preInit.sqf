@@ -79,9 +79,10 @@ immersion_pops_fnc_start_cig = {
 
         _cigTime = _cigTime + _time;
 
-        [_unit, selectRandom immersion_pops_eatSounds] call immersion_pops_playSound;
-        sleep (2 + random 2);
-        [_unit, selectRandom immersion_pops_eatSounds] call immersion_pops_playSound;
+        // EDITED: Disabled slurping sfx. They're kinda gross.
+        //[_unit, selectRandom immersion_pops_eatSounds] call immersion_pops_playSound;
+        //sleep (2 + random 2);
+        //[_unit, selectRandom immersion_pops_eatSounds] call immersion_pops_playSound;
 
         sleep _time;
 
