@@ -5,7 +5,7 @@ class CfgPatches
 		units[] = {"immersion_pops_poppackItem"};
 		weapons[] = {};
 		magazines[] = {"immersion_pops_poppack"};
-		requiredVersion = 0.1;
+		requiredVersion = 0.5;
 		requiredAddons[] = {
 				"a3_3den",
 				"a3_3den_language",

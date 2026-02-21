@@ -75,7 +75,7 @@ class CfgMagazines
         displayName = "$STR_immersion_pops_poppack";
         descriptionShort = "$STR_immersion_pops_poppack_descr";
         model = "\immersion_pops\cigpack.p3d";
-        picture = "\immersion_pops\UI\gear_cigpack_x_ca";
+        picture = "\immersion_pops\UI\gear_cigpack_x_ca.paa";
 
         ammo = "";
         count = 1;
@@ -96,7 +96,7 @@ class CfgGlasses
         mass = 0.2;
         displayName = "$STR_immersion_pops_cigarette0";
         model = "\immersion_pops\cig0.p3d";
-        picture = "\immersion_pops\UI\gear_cig0_x_ca";
+        picture = "\immersion_pops\UI\gear_cig0_x_ca.paa";
         identityTypes[] = {};
 
         immersion_pops_isPop = 1;

@@ -5,7 +5,7 @@ class CfgPatches
 		units[] = {"murshun_cigs_matchesItem", "murshun_cigs_lighterItem", "murshun_cigs_cigpackItem"};
 		weapons[] = {"murshun_cigs_cig0_nv", "immersion_cigs_cigar0_nv"};
 		magazines[] = {"murshun_cigs_matches", "murshun_cigs_lighter", "murshun_cigs_cigpack"};
-		requiredVersion = 0.1;
+		requiredVersion = 1.22;
 		requiredAddons[] = {
 				"a3_3den",
 				"a3_3den_language",
